@@ -1,8 +1,8 @@
 Date time picker integrated the Pytholabs page
-
+View the README file in a code editor.
 STEPS TO INTEGRATE:
 
-1. link css : <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery-datetimepicker/2.5.20/jquery.datetimepicker.min.css">
+1. link css : '<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery-datetimepicker/2.5.20/jquery.datetimepicker.min.css">'
 2. link JS (AFTER JQUERY): <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-datetimepicker/2.5.20/jquery.datetimepicker.full.min.js"></script>
 3. Init DATE TIME PICKER : $(document).ready(function(){
     $("#fdate" ).datetimepicker({
